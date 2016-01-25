@@ -51,7 +51,6 @@ public class GameLogic : MonoBehaviour {
 		if (availableLevels.Count == 0) {
 			print("You won the game!");
 			_completed = true;
-			Application.Quit();
 			return;
 		}
 		int randomIndex = Random.Range(0, availableLevels.Count);
