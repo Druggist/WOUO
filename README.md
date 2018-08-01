@@ -10,4 +10,4 @@ The idea behind them is that if you don't know what do you want to do, you can d
 Software used in this project:
 - Unity3D 5.3
 - Fruity Loops
-- Bledner3D
+- Blender3D
